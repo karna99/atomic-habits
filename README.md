@@ -5,4 +5,4 @@ _i promised the full summary of book, but this is all i could manage for now in 
 _sorry, and keep expecting i'll deliver better_
 
 ### Get stated with building habits (Powerful tools)
-[link](https://github.com/mr-jackjack/atomic-habits/blob/main/get%20started.md)
+[link](https://github.com/mr-jackjack/atomic-habits/blob/main/get%20started.md) 👈
