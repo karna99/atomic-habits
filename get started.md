@@ -1,4 +1,4 @@
-# Get started with Building good habits and Breaking bad ones
+# Poweful tools to get stated with building habits
 1. Beaware of your Habits
 2. Cue for your Habit
 3. Track your Habits
@@ -98,5 +98,41 @@ see , here i didn't want to do dishes but when there is temptation associated wi
 Tracking your habits can be very beneficial because it can act as a cue to your habit, the process of marking X on your tracker or calander is also satisfying so in anticipation to cross it off the list, it can act as a reason or craving to perform your habit too, also once you've completed your habit crossing it off can be very satisfying which leads to doing it again and again
 We'll talk about the habit Loop ( cue, craving, response, reward) on next topic, where I'll talk in detail rather than just how to get started.
 
+we can use thir party apps, or just cross it off the calander but you'll need mulitple calanders tho, use which ever one you find satisfying
+i personally used habit tracer app
+___
+![habit app1](https://github.com/mr-jackjack/atomic-habits/blob/main/resources/habit%20tracking1.jpg)
 
+1. just add in the habits you want to perform and keep tarck of
+2. cross each habit once you have completed it
+3. you can set alarm or notification for cue to your habits too
+4. keep going
+___
+![habit app2](https://github.com/mr-jackjack/atomic-habits/blob/main/resources/habit%20tracking2.jpg)
+After some entries, it can be really satisfying to see your progress, seeing the streak only makes you want to keep your streak alive and ats as a craving to perform 
+you habit
+Thigs to keep in mind while haibt tracking:
+1. you can track your habit in stakc, it can be very satisfying to cross them all off at once
+2. __Do not break the chain__, miss a habit for one day, its cool but miss another and it is the starting of death of your habit
+3. you can keep your streak alive by using the - sign which is used when you genearlly don't perform your habit on that day to keep the streak alive
+ _for eg, for my working out havit gym is closed on saturday so i use it as a rest day and used - sign to keep the streak alive_
+
+### Habit contract
+Once we get started with our habits, knowing someone is looking or even expecting from us can be a huge motivation to perfrom that habit or behaviour
+for eg, while trying to quit smoking, once you tell your junior that respects you that you are trying to do so, you will have another motive why not to smoke, if he/she finds you smoking it will only look bad on you, and the fear of them having lesser opinion of us can be very powerful
+tell about your habits, or even better have an accountability partner, or even make bet on it so you have one more reason to do you good habits and one more reason to avoid the bad ones.
+
+ we can used habit contract too but that seems to mucha a hassle for now, just the above mentioned should be enough to get you started
+ 
+ 
+ ## Note: these are only the tools that can help you with getting started with your habits, to stick with habits it can be very helpful to know about 
+ 1. what are atomic haits and why they work
+ 2. the 1% rule
+ 3. system over goals
+ 4. changing our identity (very powerful)
+ 5. and the habit loop, which is cue,craving,response,reward (very powerful)
+ 
+ _I'll try to make them short and sweet as much as possible_ the final goal is the make them as small and helpful as possible 
+ 
+ 
     
