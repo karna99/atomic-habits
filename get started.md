@@ -82,9 +82,13 @@ you can stack your habits big or small, but stacking 2-3 habits works great for 
 
 ``` so the mantra is:
 After [ Current habit], I will [New habit]
+```
+If you are finding it hard to complete your habits, i could be because then habit stack is too long 
+or you don't perform each hait every day. for eg gym's are closed on saturday, 
+so i use time and location as cue study on saturdays ( i don't but as a example 😉)
+Another reason could be because of there is no craving, you don't feel motivated enough,
+we can used temptation( tasks we like) to our use
 
-If you are finding it hard to complete your habits, i could be because then habit stack is too long or you don't perform each hait every day. for eg gym's are closed on saturday, so i use time and location as cue study on saturdays ( i don't but as a example 😉)
-Another reason could be because of there is no craving, you don't feel motivated enough, we can used temptation( tasks we like) to our use
 ``` It goes something like:
 1. After [Current Habit], I will [ Habit I need]
 2. After [Habit I  need], I will [ Habit I want]
@@ -109,6 +113,7 @@ ___
 4. keep going
 ___
 ![habit app2](https://github.com/mr-jackjack/atomic-habits/blob/main/resources/habit%20tracking2.jpg)
+
 After some entries, it can be really satisfying to see your progress, seeing the streak only makes you want to keep your streak alive and ats as a craving to perform 
 you habit
 Thigs to keep in mind while haibt tracking:
